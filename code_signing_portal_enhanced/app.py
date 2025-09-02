@@ -458,4 +458,4 @@ def verify_integrity_page():
 # Main
 # -------------------------
 if __name__ == '__main__':
-    app.run(debug=True) 
+    app.run(debug=False) 
